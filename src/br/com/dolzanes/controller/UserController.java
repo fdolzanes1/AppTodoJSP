@@ -49,7 +49,7 @@ public class UserController extends HttpServlet {
             if (result == 1) {
                 request.setAttribute("NOTIFICATION", "User Registered Successfully!");
             }
-
+            
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
