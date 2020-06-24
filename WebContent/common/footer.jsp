@@ -7,6 +7,10 @@
     background-color: tomato;
 }
 
+strong {
+	color: white;
+}
+
 </style>
 
 <footer class="footer font-small black">
